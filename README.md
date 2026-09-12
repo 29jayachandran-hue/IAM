@@ -265,7 +265,6 @@ A read-only user should receive an Access Denied response for unauthorized write
 Important: The S3 console may display an Upload button even when the user does not have permission to complete the upload. The presence of the button alone does not prove that upload permission exists.
 
 
-<img width="1920" height="1080" alt="Screenshot 2026-09-02 103638" src="https://github.com/user-attachments/assets/4aa8e864-5fe0-4325-b6aa-7cacf2cf1f64" />
 
 
 Expected Result
